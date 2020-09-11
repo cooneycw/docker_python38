@@ -6,5 +6,3 @@ COPY requirements.txt /app/requirements.txt
 WORKDIR /app
 
 RUN pip3 install -r /app/requirements.txt
-
-CMD ["python","-u", "/app/run.py"]
