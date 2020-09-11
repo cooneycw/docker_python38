@@ -43,9 +43,6 @@ lockfile==0.12.2
 Markdown==3.2.2
 matplotlib
 miscTools==0.0.3
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 more-itertools==8.4.0
 numba==0.50.1
 numpy
